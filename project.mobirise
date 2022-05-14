@@ -58,7 +58,7 @@
     "imageResize": false,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/icon32-32x32.png",
-    "mbrsiteDomain": "5d6umnotko",
+    "mbrsiteDomain": "l7gjthk9py",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -66,7 +66,7 @@
     "cookiesAlert": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
