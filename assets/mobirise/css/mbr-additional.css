@@ -722,10 +722,9 @@ a {
 }
 @media (min-width: 992px) {
   .cid-t5vgVOLS1a .image-wrap img {
-    display: inline-block;
+    display: block;
     margin: auto;
-    width: 80%;
-    height: 80%;
+    width: 100%;
   }
 }
 .cid-t5vgVOLS1a .mbr-section-title {
